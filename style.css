@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background: #007bff;
+    background: #223951;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -35,7 +35,7 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background: #fff;
+    background: #191919;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -49,7 +49,7 @@ footer {
 /* Responsive Design */
 @media screen and (max-width: 768px) {
     .chat-container {
-        width: 90%;
+        width: 100%;
         padding: 10px;
     }
 }
